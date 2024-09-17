@@ -7359,6 +7359,446 @@
         }
       ],
       "designers": [55]
+    },
+    {
+      "id": 261,
+      "name": "Opulent Executive Office",
+      "category": "Elegant Look",
+      "description": "An opulent executive office that radiates sophistication and class. This design features rich mahogany wood paneling, luxurious leather furniture, and a grand chandelier. The color palette includes deep blues and gold accents, creating a regal atmosphere. The space includes a large executive desk, a private meeting area, and elegant artwork. Ideal for high-profile executives who appreciate traditional luxury.",
+      "tags": ["Opulent", "Regal", "Sophisticated"],
+      "images": [
+        "https://example.com/opulentoffice1.jpg",
+        "https://example.com/opulentoffice2.jpg"
+      ],
+      "products": [431, 432, 433],
+      "floor_plan": "45.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Michael Thompson",
+          "rating": 4.9,
+          "comment": "A stunning office that truly embodies luxury and elegance. Perfect for making a grand statement."
+        }
+      ],
+      "designers": [45]
+    },
+    {
+      "id": 262,
+      "name": "Contemporary Elegance Office",
+      "category": "Elegant Look",
+      "description": "A contemporary elegance office that blends modern design with refined sophistication. This space features sleek glass desks, minimalist furniture, and a muted color palette of grays and silvers. Statement lighting fixtures and abstract art pieces add a touch of elegance without overwhelming the space. The open layout promotes both collaboration and individual focus, making it ideal for upscale businesses.",
+      "tags": ["Contemporary", "Refined", "Sophisticated"],
+      "images": [
+        "https://example.com/contemporaryelegance1.jpg",
+        "https://example.com/contemporaryelegance2.jpg"
+      ],
+      "products": [434, 435, 436],
+      "floor_plan": "38.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Sophia Martinez",
+          "rating": 4.8,
+          "comment": "A beautifully balanced design that combines modern and elegant elements seamlessly."
+        }
+      ],
+      "designers": [46]
+    },
+    {
+      "id": 263,
+      "name": "Classic Luxury Office",
+      "category": "Elegant Look",
+      "description": "A classic luxury office that exudes timeless elegance. This design features classic woodwork, plush carpet, and high-end furniture in dark, rich tones. Ornate detailing on the walls and ceiling, along with a large, polished executive desk, create a sense of grandeur. The space is complemented by tasteful artwork and traditional décor elements, ideal for a refined and sophisticated workspace.",
+      "tags": ["Classic", "Timeless", "Grand"],
+      "images": [
+        "https://example.com/classicluxury1.jpg",
+        "https://example.com/classicluxury2.jpg"
+      ],
+      "products": [437, 438, 439],
+      "floor_plan": "50.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "James Anderson",
+          "rating": 4.9,
+          "comment": "A classic and luxurious office that makes a powerful impression. Perfect for high-profile meetings."
+        }
+      ],
+      "designers": [47]
+    },
+    {
+      "id": 264,
+      "name": "Elegant Modern Office",
+      "category": "Elegant Look",
+      "description": "An elegant modern office that combines contemporary style with luxurious touches. This design features sleek, modern furniture, high-quality materials, and a sophisticated color scheme of whites, blacks, and metallics. The space includes a state-of-the-art conference room, a stylish lounge area, and a well-organized work area with elegant décor elements like geometric art and polished surfaces.",
+      "tags": ["Modern", "Luxurious", "Sophisticated"],
+      "images": [
+        "https://example.com/elegantmodern1.jpg",
+        "https://example.com/elegantmodern2.jpg"
+      ],
+      "products": [440, 441, 442],
+      "floor_plan": "42.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Wilson",
+          "rating": 4.8,
+          "comment": "A perfect blend of modern and elegant design. The attention to detail is impressive."
+        }
+      ],
+      "designers": [48]
+    },
+    {
+      "id": 265,
+      "name": "Luxury Loft Office",
+      "category": "Elegant Look",
+      "description": "A luxury loft office that combines the raw charm of industrial design with sophisticated elegance. This space features exposed brick walls, high ceilings, and large windows, complemented by elegant furnishings like plush sofas and a sleek glass desk. The color scheme includes neutral tones with rich accents, and the space is adorned with stylish lighting fixtures and artwork, creating a chic and refined environment.",
+      "tags": ["Loft", "Industrial", "Elegant"],
+      "images": [
+        "https://example.com/luxuryloft1.jpg",
+        "https://example.com/luxuryloft2.jpg"
+      ],
+      "products": [443, 444, 445],
+      "floor_plan": "48.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Lucas Harris",
+          "rating": 4.9,
+          "comment": "An elegant loft that beautifully combines industrial and luxurious elements. A fantastic space for high-end business activities."
+        }
+      ],
+      "designers": [49]
+    },
+    {
+      "id": 266,
+      "name": "Refined Art Deco Office",
+      "category": "Elegant Look",
+      "description": "A refined Art Deco office that channels the glamour of the 1920s. This design features geometric patterns, luxurious materials like marble and velvet, and elegant chrome accents. The office includes a grand executive desk, plush seating, and statement lighting fixtures. The color palette combines deep jewel tones with metallics, creating a sophisticated and stylish environment perfect for high-end business settings.",
+      "tags": ["Art Deco", "Glamorous", "Luxurious"],
+      "images": [
+        "https://example.com/artdecooffice1.jpg",
+        "https://example.com/artdecooffice2.jpg"
+      ],
+      "products": [446, 447, 448],
+      "floor_plan": "46.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Charlotte Hughes",
+          "rating": 4.9,
+          "comment": "A stunning office that captures the essence of Art Deco elegance. The design is both timeless and glamorous."
+        }
+      ],
+      "designers": [50]
+    },
+    {
+      "id": 267,
+      "name": "Luxurious Neo-Classical Office",
+      "category": "Elegant Look",
+      "description": "A luxurious Neo-Classical office that combines traditional design with modern comfort. This space features classical columns, intricate moldings, and rich wood finishes. The elegant furnishings include a grand wooden desk, tufted leather chairs, and antique-style lamps. The color scheme of ivory, navy, and gold enhances the opulence of the design, making it ideal for prestigious executive offices.",
+      "tags": ["Neo-Classical", "Opulent", "Traditional"],
+      "images": [
+        "https://example.com/neoclassicaloffice1.jpg",
+        "https://example.com/neoclassicaloffice2.jpg"
+      ],
+      "products": [449, 450, 451],
+      "floor_plan": "52.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "William Clark",
+          "rating": 4.8,
+          "comment": "A beautifully designed office that merges classical elegance with modern luxury. Perfect for an executive setting."
+        }
+      ],
+      "designers": [51]
+    },
+    {
+      "id": 268,
+      "name": "Sleek Modern Glam Office",
+      "category": "Elegant Look",
+      "description": "A sleek modern glam office that exudes sophistication with its contemporary design elements. The space features high-gloss finishes, glass partitions, and chic furnishings. The color palette includes black, white, and metallics, enhanced by statement pieces such as a crystal chandelier and abstract art. This design creates a luxurious and stylish workspace suitable for high-profile professionals.",
+      "tags": ["Modern", "Glamorous", "Sophisticated"],
+      "images": [
+        "https://example.com/modernglamoffice1.jpg",
+        "https://example.com/modernglamoffice2.jpg"
+      ],
+      "products": [452, 453, 454],
+      "floor_plan": "41.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Ava Johnson",
+          "rating": 4.8,
+          "comment": "An elegant and stylish office that combines modern design with glamorous touches. Perfect for a high-end work environment."
+        }
+      ],
+      "designers": [52]
+    },
+    {
+      "id": 269,
+      "name": "Sophisticated Modern Victorian Office",
+      "category": "Elegant Look",
+      "description": "A sophisticated modern Victorian office that blends Victorian charm with contemporary design. This space features classic Victorian elements like ornate woodwork and antique furnishings, combined with modern upgrades such as ergonomic chairs and sleek lighting. The color scheme includes deep greens and golds, and the office is adorned with Victorian-style artwork and decorative pieces.",
+      "tags": ["Victorian", "Modern", "Sophisticated"],
+      "images": [
+        "https://example.com/modernvictorianoffice1.jpg",
+        "https://example.com/modernvictorianoffice2.jpg"
+      ],
+      "products": [455, 456, 457],
+      "floor_plan": "48.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Ethan Brown",
+          "rating": 4.9,
+          "comment": "An exquisite blend of Victorian elegance and modern sophistication. A truly unique and refined office space."
+        }
+      ],
+      "designers": [53]
+    },
+    {
+      "id": 270,
+      "name": "Grand Modern Loft Office",
+      "category": "Elegant Look",
+      "description": "A grand modern loft office that combines the raw appeal of industrial design with high-end elegance. The space features exposed brick walls, high ceilings, and large windows, complemented by luxurious furnishings such as a velvet sofa and a glass desk. The color scheme includes neutrals with pops of metallics, and stylish artwork and lighting fixtures add to the sophisticated atmosphere.",
+      "tags": ["Loft", "Industrial", "Elegant"],
+      "images": [
+        "https://example.com/grandloftoffice1.jpg",
+        "https://example.com/grandloftoffice2.jpg"
+      ],
+      "products": [458, 459, 460],
+      "floor_plan": "55.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Mia Davis",
+          "rating": 4.9,
+          "comment": "An elegant loft office that perfectly combines modern and industrial elements. Ideal for a stylish, high-end workspace."
+        }
+      ],
+      "designers": [54]
+    },
+    {
+      "id": 271,
+      "name": "Sleek Contemporary Workspace",
+      "category": "Contemporary",
+      "description": "A sleek contemporary workspace that emphasizes clean lines and a minimalist aesthetic. This design features a neutral color palette with bold accents, modern furniture with geometric shapes, and an open layout to maximize space and light. The office includes adjustable desks, ergonomic chairs, and smart lighting solutions, creating an efficient and stylish environment for professionals.",
+      "tags": ["Sleek", "Minimalist", "Modern"],
+      "images": [
+        "https://example.com/sleekworkspace1.jpg",
+        "https://example.com/sleekworkspace2.jpg"
+      ],
+      "products": [431, 432, 433],
+      "floor_plan": "35.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Daniel Smith",
+          "rating": 4.8,
+          "comment": "A beautifully modern workspace with a clean and functional design."
+        }
+      ],
+      "designers": [45]
+    },
+    {
+      "id": 272,
+      "name": "Urban Contemporary Office",
+      "category": "Contemporary",
+      "description": "An urban contemporary office that blends industrial elements with sleek, modern furnishings. Exposed concrete walls, large windows, and metal accents provide a raw yet refined look. The space is designed for functionality with modular furniture, collaborative areas, and high-tech amenities. This design suits a dynamic urban environment and a creative professional lifestyle.",
+      "tags": ["Urban", "Industrial", "Sleek"],
+      "images": [
+        "https://example.com/urbanoffice1.jpg",
+        "https://example.com/urbanoffice2.jpg"
+      ],
+      "products": [434, 435, 436],
+      "floor_plan": "40.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Sophia Green",
+          "rating": 4.7,
+          "comment": "A stylish and functional office that captures the essence of urban chic."
+        }
+      ],
+      "designers": [46]
+    },
+    {
+      "id": 273,
+      "name": "Contemporary Zen Office",
+      "category": "Contemporary",
+      "description": "A contemporary Zen office that combines modern design with elements of tranquility. Featuring a calming color palette of whites and soft grays, natural materials like bamboo and stone, and minimalist furniture, this office creates a peaceful work environment. Large windows and indoor plants enhance the sense of calm and connection with nature, perfect for a stress-free workspace.",
+      "tags": ["Zen", "Calming", "Modern"],
+      "images": [
+        "https://example.com/contemporaryzen1.jpg",
+        "https://example.com/contemporaryzen2.jpg"
+      ],
+      "products": [437, 438, 439],
+      "floor_plan": "37.5㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Ethan Lee",
+          "rating": 4.9,
+          "comment": "A beautifully serene workspace that integrates modern design with calming elements."
+        }
+      ],
+      "designers": [47]
+    },
+    {
+      "id": 274,
+      "name": "High-Tech Contemporary Office",
+      "category": "Contemporary",
+      "description": "A high-tech contemporary office featuring cutting-edge technology and sleek design. The office includes interactive smart boards, ergonomic workstations, and advanced lighting systems that adjust to different work modes. The design uses a modern color scheme with clean lines and reflective surfaces, creating a futuristic and functional workspace for tech-savvy professionals.",
+      "tags": ["High-Tech", "Futuristic", "Sleek"],
+      "images": [
+        "https://example.com/hightechoffice1.jpg",
+        "https://example.com/hightechoffice2.jpg"
+      ],
+      "products": [440, 441, 442],
+      "floor_plan": "42.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Ava Johnson",
+          "rating": 4.8,
+          "comment": "A stunning and futuristic office that integrates technology seamlessly."
+        }
+      ],
+      "designers": [48]
+    },
+    {
+      "id": 275,
+      "name": "Contemporary Executive Suite",
+      "category": "Contemporary",
+      "description": "A contemporary executive suite designed for luxury and efficiency. The suite features a modern color scheme with rich textures, high-end furnishings, and a spacious layout. The office includes a private executive area, a stylish conference room, and sleek storage solutions. Large windows and open spaces create an inviting and professional environment, ideal for executives and high-level meetings.",
+      "tags": ["Luxury", "Executive", "Modern"],
+      "images": [
+        "https://example.com/executivesuite1.jpg",
+        "https://example.com/executivesuite2.jpg"
+      ],
+      "products": [443, 444, 445],
+      "floor_plan": "50.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Olivia Martinez",
+          "rating": 4.9,
+          "comment": "An elegant and sophisticated executive suite that meets all modern needs."
+        }
+      ],
+      "designers": [49]
+    },
+    {
+      "id": 276,
+      "name": "Urban Loft Office",
+      "category": "Contemporary",
+      "description": "An urban loft office that combines contemporary design with a loft-style aesthetic. Featuring open spaces, high ceilings, and large industrial windows, this office uses exposed brick and steel elements to create a raw yet polished look. Modern furniture with clean lines, flexible workstations, and creative breakout areas complete the design, making it ideal for collaborative and dynamic work environments.",
+      "tags": ["Loft", "Industrial", "Collaborative"],
+      "images": [
+        "https://example.com/urbanloftoffice1.jpg",
+        "https://example.com/urbanloftoffice2.jpg"
+      ],
+      "products": [446, 447, 448],
+      "floor_plan": "45.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Mia Brown",
+          "rating": 4.7,
+          "comment": "A stunning loft-style office with a perfect blend of raw and modern elements."
+        }
+      ],
+      "designers": [50]
+    },
+    {
+      "id": 277,
+      "name": "Minimalist Executive Office",
+      "category": "Contemporary",
+      "description": "A minimalist executive office designed for elegance and efficiency. The office features a restrained color palette of whites and grays, with sleek, high-quality furniture and minimalist décor. The layout focuses on simplicity and functionality, with an emphasis on clean lines and uncluttered surfaces. This design creates a sophisticated environment suitable for high-level decision-making and professional meetings.",
+      "tags": ["Minimalist", "Elegant", "Efficient"],
+      "images": [
+        "https://example.com/minimalistexecutive1.jpg",
+        "https://example.com/minimalistexecutive2.jpg"
+      ],
+      "products": [449, 450, 451],
+      "floor_plan": "38.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "James Williams",
+          "rating": 4.8,
+          "comment": "A refined and elegant office that epitomizes minimalist design principles."
+        }
+      ],
+      "designers": [51]
+    },
+    {
+      "id": 278,
+      "name": "Contemporary Creative Studio",
+      "category": "Contemporary",
+      "description": "A contemporary creative studio designed to inspire innovation and creativity. The space features vibrant color accents, modular furniture, and flexible layouts that adapt to different needs. With large open areas for brainstorming, collaborative workspaces, and stylish design elements, this studio is perfect for creative professionals and teams looking for an energizing and dynamic environment.",
+      "tags": ["Creative", "Dynamic", "Flexible"],
+      "images": [
+        "https://example.com/creativestudio1.jpg",
+        "https://example.com/creativestudio2.jpg"
+      ],
+      "products": [452, 453, 454],
+      "floor_plan": "50.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Lucas Anderson",
+          "rating": 4.9,
+          "comment": "An inspiring and versatile studio that fosters creativity and collaboration."
+        }
+      ],
+      "designers": [52]
+    },
+    {
+      "id": 279,
+      "name": "Contemporary Glass Office",
+      "category": "Contemporary",
+      "description": "A contemporary glass office that emphasizes transparency and openness. The design features floor-to-ceiling glass walls, minimalist furnishings, and a modern color scheme of blues and grays. The use of natural light and reflective surfaces enhances the sense of space and connectivity. This office is ideal for companies that value openness and a connection to the outside environment.",
+      "tags": ["Glass", "Open", "Modern"],
+      "images": [
+        "https://example.com/glassoffice1.jpg",
+        "https://example.com/glassoffice2.jpg"
+      ],
+      "products": [455, 456, 457],
+      "floor_plan": "42.5㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Avery King",
+          "rating": 4.8,
+          "comment": "A beautifully transparent office that feels both open and modern."
+        }
+      ],
+      "designers": [53]
+    },
+    {
+      "id": 280,
+      "name": "Contemporary Green Office",
+      "category": "Contemporary",
+      "description": "A contemporary green office designed with a focus on sustainability and natural elements. The space features eco-friendly materials, energy-efficient lighting, and plenty of indoor plants. The color scheme incorporates shades of green and earth tones, creating a refreshing and healthy work environment. This design promotes well-being and environmental consciousness while maintaining a modern aesthetic.",
+      "tags": ["Green", "Sustainable", "Eco-Friendly"],
+      "images": [
+        "https://example.com/greenoffice1.jpg",
+        "https://example.com/greenoffice2.jpg"
+      ],
+      "products": [458, 459, 460],
+      "floor_plan": "44.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Charlotte Davis",
+          "rating": 4.9,
+          "comment": "A refreshing and eco-friendly office that combines modern design with sustainability."
+        }
+      ],
+      "designers": [54]
     }
   ]
 }
