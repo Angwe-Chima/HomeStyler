@@ -1,5 +1,5 @@
 {
-  "products":[
+  "products": [
     {
       "id": 1,
       "name": "Luxurious Chesterfield Sofa with Deep Button Tufting and Rich Leather",
@@ -292,10 +292,7 @@
       },
       "weight": "15 kg",
       "description": "The Ergonomic Office Chair features lumbar support and adjustable armrests, designed for maximum comfort during long working hours. The mesh material ensures breathability, while its sleek black color fits any office decor.",
-      "care_instructions": [
-        "Wipe with a damp cloth",
-        "Avoid direct sunlight"
-      ]
+      "care_instructions": ["Wipe with a damp cloth", "Avoid direct sunlight"]
     },
     {
       "id": 12,
@@ -400,10 +397,7 @@
       },
       "weight": "35 kg",
       "description": "The Adjustable Recliner offers a massage function and faux leather upholstery, combining relaxation and luxury. Its charcoal color and adjustable settings make it an ideal choice for a home theater or relaxation area.",
-      "care_instructions": [
-        "Clean with a damp cloth",
-        "Avoid direct sunlight"
-      ]
+      "care_instructions": ["Clean with a damp cloth", "Avoid direct sunlight"]
     },
     {
       "id": 16,
@@ -5750,7 +5744,6 @@
       "features": "Wall-mounted, elegant design, ample storage",
       "description": "An elegant wall-mounted medicine cabinet with a brushed aluminum finish, offering ample storage and a refined design for a sophisticated bathroom."
     }
-   
   ],
   "designers": [
     {
@@ -5889,6 +5882,1483 @@
         "linkedin": "https://linkedin.com/in/liamwhite"
       }
     }
+  ],
+
+  "designs": [
+    {
+      "id": 201,
+      "name": "Contemporary Urban Living Room",
+      "category": "Living Room",
+      "description": "This living room design merges contemporary aesthetics with urban chic elements. The space features a minimalist layout with bold furniture pieces, neutral tones, and a large sectional sofa. The high ceilings and large windows flood the room with natural light, complemented by sleek metal and glass accents. Ideal for a modern apartment, the room's smart use of space creates a welcoming atmosphere perfect for entertaining.",
+      "tags": ["Contemporary", "Urban", "Minimalist"],
+      "images": [
+        "https://example.com/contemporaryurban1.jpg",
+        "https://example.com/contemporaryurban2.jpg"
+      ],
+      "products": [301, 302, 303],
+      "floor_plan": "35.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emily White",
+          "rating": 4.9,
+          "comment": "Perfect balance between modern and cozy!"
+        }
+      ],
+      "designers": [101, 102]
+    },
+    {
+      "id": 202,
+      "name": "Rustic Industrial Living Room",
+      "category": "Living Room",
+      "description": "Featuring a rustic industrial vibe, this living room combines exposed brick walls with wooden beams and steel accents. The distressed leather furniture gives the space a warm, lived-in feel, while the large industrial-style pendant lighting adds a striking feature. Ideal for loft spaces, this room is perfect for those who appreciate raw, unfinished materials paired with modern comfort.",
+      "tags": ["Rustic", "Industrial", "Exposed Brick"],
+      "images": [
+        "https://example.com/rusticindustrial1.jpg",
+        "https://example.com/rusticindustrial2.jpg"
+      ],
+      "products": [304, 305],
+      "floor_plan": "40.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Jack Stone",
+          "rating": 4.8,
+          "comment": "The perfect blend of rustic and modern industrial!"
+        }
+      ],
+      "designers": [103]
+    },
+    {
+      "id": 203,
+      "name": "Scandinavian Style Living Room",
+      "category": "Living Room",
+      "description": "This Scandinavian-inspired living room embodies simplicity, functionality, and coziness. With light wood floors, white walls, and minimalist furniture, the room feels airy and spacious. A few green plants and soft textiles bring warmth, while large windows let in plenty of natural light. Ideal for lovers of clean lines and a clutter-free environment, this design focuses on comfort and simplicity.",
+      "tags": ["Scandinavian", "Minimalist", "Natural Light"],
+      "images": [
+        "https://example.com/scandinavian1.jpg",
+        "https://example.com/scandinavian2.jpg"
+      ],
+      "products": [306, 307, 308],
+      "floor_plan": "32.5㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Sophia Green",
+          "rating": 4.7,
+          "comment": "So relaxing and beautifully simple!"
+        }
+      ],
+      "designers": [104]
+    },
+    {
+      "id": 204,
+      "name": "Mid-Century Modern Living Room",
+      "category": "Living Room",
+      "description": "Inspired by the timeless mid-century modern style, this living room features iconic furniture pieces such as the Eames chair and a walnut coffee table. Bold geometric patterns adorn the cushions and rugs, while the clean lines of the furniture give the space a sophisticated yet cozy atmosphere. Wooden accents and vintage lighting complete the look, making it ideal for anyone who loves retro-inspired designs with a modern twist.",
+      "tags": ["Mid-Century", "Modern", "Retro"],
+      "images": [
+        "https://example.com/midcentury1.jpg",
+        "https://example.com/midcentury2.jpg"
+      ],
+      "products": [309, 310],
+      "floor_plan": "37.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Liam Black",
+          "rating": 5.0,
+          "comment": "A stunning blend of vintage and modern!"
+        }
+      ],
+      "designers": [105]
+    },
+    {
+      "id": 205,
+      "name": "Luxury Glam Living Room",
+      "category": "Living Room",
+      "description": "Designed with opulence in mind, this luxury living room features plush velvet seating, golden accents, and marble surfaces. The oversized crystal chandelier serves as a focal point, while the dark, moody color palette adds drama to the space. Rich textures and high-end materials create a sophisticated atmosphere, perfect for those who enjoy a more glamorous style.",
+      "tags": ["Luxury", "Glam", "Velvet", "Gold Accents"],
+      "images": [
+        "https://example.com/luxuryglam1.jpg",
+        "https://example.com/luxuryglam2.jpg"
+      ],
+      "products": [311, 312],
+      "floor_plan": "45.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Ava Gold",
+          "rating": 4.9,
+          "comment": "The epitome of elegance and comfort!"
+        }
+      ],
+      "designers": [106, 107]
+    },
+    {
+      "id": 206,
+      "name": "Bohemian Living Room",
+      "category": "Living Room",
+      "description": "With a laid-back and eclectic vibe, this bohemian living room combines colorful patterns, layered textiles, and natural materials. The design encourages a mix-and-match approach, featuring an array of throw pillows, tapestries, and woven baskets. Houseplants bring in an organic touch, while the casual seating arrangement is perfect for lounging and socializing. Ideal for free spirits and lovers of unconventional style.",
+      "tags": ["Bohemian", "Eclectic", "Colorful"],
+      "images": [
+        "https://example.com/bohemian1.jpg",
+        "https://example.com/bohemian2.jpg"
+      ],
+      "products": [313, 314],
+      "floor_plan": "42.0㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Lucas Brown",
+          "rating": 4.7,
+          "comment": "A burst of creativity and comfort!"
+        }
+      ],
+      "designers": [108]
+    },
+    {
+      "id": 207,
+      "name": "Classic Victorian Living Room",
+      "category": "Living Room",
+      "description": "This Victorian-inspired living room embraces traditional elegance with ornate furniture, luxurious drapery, and intricate patterns. Rich wood tones, velvet upholstery, and antique decor add to the sense of grandeur. The large windows are dressed with heavy curtains, allowing natural light to highlight the beautifully carved moldings and furnishings. Perfect for lovers of classic, timeless designs.",
+      "tags": ["Victorian", "Classic", "Ornate"],
+      "images": [
+        "https://example.com/victorian1.jpg",
+        "https://example.com/victorian2.jpg"
+      ],
+      "products": [315, 316],
+      "floor_plan": "50.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Amelia Queen",
+          "rating": 5.0,
+          "comment": "A regal, timeless living space!"
+        }
+      ],
+      "designers": [109]
+    },
+    {
+      "id": 208,
+      "name": "Coastal Living Room",
+      "category": "Living Room",
+      "description": "Inspired by beachside homes, this coastal living room features light, airy colors, natural materials like wicker and wood, and plenty of sunlight. The design includes a combination of comfortable slipcovered seating and nautical decor, with an open layout that evokes a sense of calm. Blue and white tones dominate the color scheme, perfect for bringing the seaside atmosphere indoors.",
+      "tags": ["Coastal", "Beach", "Natural Materials"],
+      "images": [
+        "https://example.com/coastal1.jpg",
+        "https://example.com/coastal2.jpg"
+      ],
+      "products": [317, 318],
+      "floor_plan": "40.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Ethan Shore",
+          "rating": 4.8,
+          "comment": "Feels like a breath of fresh sea air!"
+        }
+      ],
+      "designers": [110]
+    },
+    {
+      "id": 209,
+      "name": "Luxury Parisian Living Room",
+      "category": "Living Room",
+      "description": "Inspired by Parisian elegance, this living room features high ceilings, ornate moldings, and a classic fireplace. Velvet furniture in deep jewel tones adds warmth and luxury, while golden accents and mirrors amplify the light and create a sense of space. This design is perfect for anyone looking to bring a touch of timeless European sophistication into their home.",
+      "tags": ["Luxury", "Parisian", "Velvet"],
+      "images": [
+        "https://example.com/parisianliving1.jpg",
+        "https://example.com/parisianliving2.jpg"
+      ],
+      "products": [303, 304],
+      "floor_plan": "52.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Isabella Rose",
+          "rating": 4.9,
+          "comment": "A timeless and elegant space!"
+        }
+      ],
+      "designers": [103]
+    },
+    {
+      "id": 210,
+      "name": "Minimalist Zen Living Room",
+      "category": "Living Room",
+      "description": "This minimalist living room promotes relaxation and tranquility with its use of neutral colors, clean lines, and natural materials like bamboo and stone. Low furniture and an abundance of open space create a peaceful, clutter-free environment, ideal for unwinding. The large windows allow natural light to flood the room, enhancing the serene ambiance.",
+      "tags": ["Minimalist", "Zen", "Natural Materials"],
+      "images": [
+        "https://example.com/zenliving1.jpg",
+        "https://example.com/zenliving2.jpg"
+      ],
+      "products": [305, 306],
+      "floor_plan": "30.5㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "William Reed",
+          "rating": 4.8,
+          "comment": "So calming and beautifully simple."
+        }
+      ],
+      "designers": [104, 105]
+    },
+
+    {
+      "id": 213,
+      "name": "Modern Minimalist Kitchen",
+      "category": "Kitchen",
+      "description": "A sleek, modern kitchen designed with simplicity and functionality in mind. The open layout features clean lines, minimalistic cabinetry, and high-tech appliances integrated seamlessly into the design. The kitchen uses a monochromatic color palette, with matte black countertops and soft white cabinets, creating a space that feels both luxurious and accessible.",
+      "tags": ["Minimalist", "Modern", "Open Layout"],
+      "images": [
+        "https://example.com/kitchen1a.jpg",
+        "https://example.com/kitchen1b.jpg"
+      ],
+      "products": [301, 302, 303],
+      "floor_plan": "45.50㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Alice Harper",
+          "rating": 4.8,
+          "comment": "The kitchen design is not only elegant but incredibly functional!"
+        }
+      ],
+      "designers": [101, 102]
+    },
+    {
+      "id": 214,
+      "name": "Rustic Farmhouse Kitchen",
+      "category": "Kitchen",
+      "description": "Inspired by the charm of country living, this farmhouse kitchen boasts warm wood tones, exposed beams, and large windows that flood the space with natural light. The design integrates vintage-style hardware with modern functionality, featuring a large farmhouse sink, wooden countertops, and open shelving for easy access to kitchen essentials.",
+      "tags": ["Farmhouse", "Rustic", "Wooden"],
+      "images": [
+        "https://example.com/kitchen2a.jpg",
+        "https://example.com/kitchen2b.jpg"
+      ],
+      "products": [304, 305, 306],
+      "floor_plan": "50.00㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Jake Thompson",
+          "rating": 4.9,
+          "comment": "This kitchen perfectly blends old-world charm with modern convenience."
+        }
+      ],
+      "designers": [103]
+    },
+    {
+      "id": 215,
+      "name": "Industrial Chic Kitchen",
+      "category": "Kitchen",
+      "description": "This industrial kitchen showcases exposed brick walls, steel accents, and reclaimed wood surfaces, all unified by a large central island. Pendant lighting, sleek stainless steel appliances, and a mix of concrete and wood flooring give this kitchen a trendy, edgy feel. The open shelving and large windows maintain an airy vibe, balancing the rugged industrial look with warmth.",
+      "tags": ["Industrial", "Chic", "Exposed Brick"],
+      "images": [
+        "https://example.com/kitchen3a.jpg",
+        "https://example.com/kitchen3b.jpg"
+      ],
+      "products": [307, 308, 309],
+      "floor_plan": "58.60㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Samantha Lee",
+          "rating": 4.7,
+          "comment": "Love the industrial look! It’s both stylish and functional."
+        }
+      ],
+      "designers": [104]
+    },
+    {
+      "id": 216,
+      "name": "Scandinavian Light Kitchen",
+      "category": "Kitchen",
+      "description": "A bright and airy Scandinavian-inspired kitchen that combines functionality with simplicity. The design focuses on natural light, light wood cabinets, and open shelving. The minimalist approach ensures an uncluttered space, with smooth white countertops and soft-toned wood accents, creating a warm and inviting kitchen that feels spacious and clean.",
+      "tags": ["Scandinavian", "Light", "Minimal"],
+      "images": [
+        "https://example.com/kitchen4a.jpg",
+        "https://example.com/kitchen4b.jpg"
+      ],
+      "products": [310, 311, 312],
+      "floor_plan": "43.10㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Martin Stevens",
+          "rating": 4.6,
+          "comment": "The light tones make the space feel much bigger!"
+        }
+      ],
+      "designers": [105]
+    },
+    {
+      "id": 217,
+      "name": "Modern Classic Kitchen",
+      "category": "Kitchen",
+      "description": "This kitchen merges modern aesthetics with classic detailing, featuring shaker-style cabinets, marble countertops, and high-end appliances. The neutral color palette with pops of brass hardware brings a sophisticated yet timeless charm to the space, while the spacious island and ample storage make it highly practical for everyday use.",
+      "tags": ["Modern", "Classic", "Marble"],
+      "images": [
+        "https://example.com/kitchen5a.jpg",
+        "https://example.com/kitchen5b.jpg"
+      ],
+      "products": [313, 314, 315],
+      "floor_plan": "55.20㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Rachel Morgan",
+          "rating": 4.8,
+          "comment": "A perfect blend of classic and modern features!"
+        }
+      ],
+      "designers": [106, 107]
+    },
+    {
+      "id": 218,
+      "name": "Eco-Friendly Green Kitchen",
+      "category": "Kitchen",
+      "description": "A sustainable kitchen that utilizes eco-friendly materials and energy-efficient appliances. The design incorporates reclaimed wood for the cabinetry, energy-efficient lighting, and non-toxic paints. Large windows let in ample natural light, while indoor plants add a touch of greenery, bringing the outdoors into the heart of the home.",
+      "tags": ["Eco-Friendly", "Green", "Sustainable"],
+      "images": [
+        "https://example.com/kitchen6a.jpg",
+        "https://example.com/kitchen6b.jpg"
+      ],
+      "products": [316, 317, 318],
+      "floor_plan": "49.90㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "David Rios",
+          "rating": 4.9,
+          "comment": "Love how eco-friendly and stylish this kitchen is!"
+        }
+      ],
+      "designers": [108]
+    },
+    {
+      "id": 219,
+      "name": "Luxury Gourmet Kitchen",
+      "category": "Kitchen",
+      "description": "This gourmet kitchen is designed for serious home chefs, featuring high-end appliances, a large double island, and plenty of counter space for meal preparation. The kitchen exudes luxury with its marble countertops, custom cabinetry, and top-tier fixtures. Warm lighting and deep wood tones complete the look, making this space both glamorous and highly functional.",
+      "tags": ["Luxury", "Gourmet", "Marble"],
+      "images": [
+        "https://example.com/kitchen7a.jpg",
+        "https://example.com/kitchen7b.jpg"
+      ],
+      "products": [319, 320, 321],
+      "floor_plan": "70.40㎡",
+      "rating": 5.0,
+      "reviews": [
+        {
+          "reviewer": "Lily Connor",
+          "rating": 5.0,
+          "comment": "Absolutely breathtaking! A dream kitchen for anyone who loves to cook."
+        }
+      ],
+      "designers": [109]
+    },
+    {
+      "id": 210,
+      "name": "Urban Smart Kitchen",
+      "category": "Kitchen",
+      "description": "This kitchen is designed for a modern urban lifestyle, featuring smart appliances that connect to your phone for remote control and energy efficiency. The design incorporates a sleek, futuristic look with stainless steel finishes, LED lighting, and a streamlined layout, perfect for small city apartments.",
+      "tags": ["Smart", "Urban", "Futuristic"],
+      "images": [
+        "https://example.com/kitchen8a.jpg",
+        "https://example.com/kitchen8b.jpg"
+      ],
+      "products": [322, 323, 324],
+      "floor_plan": "40.00㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Tom Collins",
+          "rating": 4.6,
+          "comment": "The smart tech integration makes life so much easier!"
+        }
+      ],
+      "designers": [110]
+    },
+    {
+      "id": 211,
+      "name": "Cottage Charm Kitchen",
+      "category": "Kitchen",
+      "description": "This cozy cottage-style kitchen combines vintage charm with modern conveniences. It features painted wooden cabinets, a large central table for family gatherings, and soft pastel colors that give it a warm, homey feel. The design incorporates vintage-inspired hardware and appliances that blend seamlessly with the modern touches.",
+      "tags": ["Cottage", "Vintage", "Pastel"],
+      "images": [
+        "https://example.com/kitchen9a.jpg",
+        "https://example.com/kitchen9b.jpg"
+      ],
+      "products": [325, 326, 327],
+      "floor_plan": "47.30㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Catherine Bennett",
+          "rating": 4.8,
+          "comment": "Absolutely love the charming, warm vibe of this kitchen!"
+        }
+      ],
+      "designers": []
+    },
+    {
+      "id": 212,
+      "name": "Modern Minimalist Bedroom",
+      "category": "Bedroom",
+      "description": "A sleek, clean, and modern bedroom design focused on minimalism. It features neutral tones, simple furniture, and ample natural light. The bed is low-profile, with storage space underneath, and the room includes floor-to-ceiling windows that bring the outdoors in. Accents like a cozy rug and hanging pendant lights add warmth to the room without cluttering the space.",
+      "tags": ["Modern", "Minimalist", "Neutral", "Bedroom"],
+      "images": [
+        "https://example.com/minimalist_bedroom1.jpg",
+        "https://example.com/minimalist_bedroom2.jpg"
+      ],
+      "products": [101, 102, 103],
+      "floor_plan": "25.5㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Alex Johnson",
+          "rating": 4.8,
+          "comment": "Absolutely love the clean lines and the bright, airy feel!"
+        }
+      ],
+      "designers": [5, 6]
+    },
+    {
+      "id": 213,
+      "name": "Luxury Master Suite",
+      "category": "Bedroom",
+      "description": "A grand bedroom designed with luxury in mind. This master suite features a king-sized bed with an upholstered headboard, a cozy seating area, and an ensuite bathroom with a free-standing tub. Rich textures, from velvet curtains to silk bedding, create an opulent atmosphere. Gold accents, marble surfaces, and floor-to-ceiling drapes make this bedroom feel like a high-end retreat.",
+      "tags": ["Luxury", "Master Suite", "Opulence"],
+      "images": [
+        "https://example.com/luxury_suite1.jpg",
+        "https://example.com/luxury_suite2.jpg"
+      ],
+      "products": [104, 105, 106],
+      "floor_plan": "45.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Samantha Lee",
+          "rating": 5.0,
+          "comment": "The epitome of luxury. Every detail is perfect!"
+        }
+      ],
+      "designers": [3]
+    },
+    {
+      "id": 214,
+      "name": "Cozy Rustic Bedroom",
+      "category": "Bedroom",
+      "description": "A warm and inviting rustic-style bedroom that combines wooden elements with cozy fabrics. The room features a reclaimed wood accent wall, rustic lighting fixtures, and a mix of vintage and modern furnishings. Soft, neutral bedding and an oversized knit blanket add comfort to the space, while plants bring a touch of nature indoors.",
+      "tags": ["Rustic", "Cozy", "Wood"],
+      "images": [
+        "https://example.com/rustic_bedroom1.jpg",
+        "https://example.com/rustic_bedroom2.jpg"
+      ],
+      "products": [107, 108],
+      "floor_plan": "30.5㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Ben Cooper",
+          "rating": 4.7,
+          "comment": "Feels like a cabin retreat—so relaxing!"
+        }
+      ],
+      "designers": [8]
+    },
+    {
+      "id": 215,
+      "name": "Scandinavian Simplicity Bedroom",
+      "category": "Bedroom",
+      "description": "Inspired by Scandinavian design, this bedroom offers simplicity, functionality, and a calming atmosphere. The space is filled with light tones of white and grey, paired with light wood furniture. Functional storage solutions are seamlessly integrated into the design, while large windows and minimal decor keep the room feeling spacious and serene.",
+      "tags": ["Scandinavian", "Simple", "Functional"],
+      "images": [
+        "https://example.com/scandinavian_bedroom1.jpg",
+        "https://example.com/scandinavian_bedroom2.jpg"
+      ],
+      "products": [109, 110],
+      "floor_plan": "28.3㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Hannah Davis",
+          "rating": 4.6,
+          "comment": "Beautiful and calming space. Love the clean design!"
+        }
+      ],
+      "designers": [7, 10]
+    },
+    {
+      "id": 216,
+      "name": "Bohemian Dream Bedroom",
+      "category": "Bedroom",
+      "description": "A free-spirited bohemian bedroom featuring an eclectic mix of colors, patterns, and textures. The bed is draped with a variety of throw pillows and blankets, while macramé wall hangings and woven rugs add character to the space. The room is filled with plants, bringing life and vibrancy. The overall vibe is casual and laid-back, perfect for a relaxed atmosphere.",
+      "tags": ["Bohemian", "Colorful", "Relaxed"],
+      "images": [
+        "https://example.com/boho_bedroom1.jpg",
+        "https://example.com/boho_bedroom2.jpg"
+      ],
+      "products": [111, 112, 113],
+      "floor_plan": "32.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Lisa Robinson",
+          "rating": 4.8,
+          "comment": "So much personality and warmth in this room!"
+        }
+      ],
+      "designers": [2]
+    },
+    {
+      "id": 217,
+      "name": "Industrial Loft Bedroom",
+      "category": "Bedroom",
+      "description": "This bedroom design is perfect for urban lofts, featuring exposed brick walls, metal fixtures, and raw wood elements. The bed is simple yet bold, with industrial-style lamps and furniture adding a rugged charm. Large windows allow natural light to flood the space, enhancing the open, airy feel of the loft. The room is both functional and stylish, ideal for city living.",
+      "tags": ["Industrial", "Loft", "Urban"],
+      "images": [
+        "https://example.com/loft_bedroom1.jpg",
+        "https://example.com/loft_bedroom2.jpg"
+      ],
+      "products": [114, 115],
+      "floor_plan": "40.0㎡",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Tom Evans",
+          "rating": 4.5,
+          "comment": "Love the urban-industrial vibe, very modern!"
+        }
+      ],
+      "designers": [9]
+    },
+    {
+      "id": 218,
+      "name": "Elegant Vintage Bedroom",
+      "category": "Bedroom",
+      "description": "A sophisticated vintage bedroom with a touch of elegance. Featuring a wrought iron bed, antique furniture, and soft pastel colors, this design exudes timeless charm. The walls are adorned with floral wallpaper, and the room is accessorized with vintage lamps and mirrors. A crystal chandelier adds a luxurious feel, making it the perfect escape for anyone who loves classic design.",
+      "tags": ["Vintage", "Elegant", "Charming"],
+      "images": [
+        "https://example.com/vintage_bedroom1.jpg",
+        "https://example.com/vintage_bedroom2.jpg"
+      ],
+      "products": [116, 117],
+      "floor_plan": "35.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Emily Carter",
+          "rating": 5.0,
+          "comment": "Absolutely stunning! Feels like stepping back in time."
+        }
+      ],
+      "designers": [1]
+    },
+    {
+      "id": 219,
+      "name": "Tropical Oasis Bedroom",
+      "category": "Bedroom",
+      "description": "A vibrant, tropical-inspired bedroom designed to bring the outdoors in. With large windows, greenery throughout, and bright accent colors, this room feels like a vacation getaway. The bed is centered in the room with light, airy linens, while bamboo furniture and natural materials complete the island vibe. The space is perfect for anyone looking to infuse their home with a tropical feel.",
+      "tags": ["Tropical", "Oasis", "Green"],
+      "images": [
+        "https://example.com/tropical_bedroom1.jpg",
+        "https://example.com/tropical_bedroom2.jpg"
+      ],
+      "products": [118, 119, 120],
+      "floor_plan": "37.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Jordan White",
+          "rating": 4.7,
+          "comment": "Feels like a vacation every day!"
+        }
+      ],
+      "designers": [4]
+    },
+    {
+      "id": 220,
+      "name": "Art Deco Glam Bedroom",
+      "category": "Bedroom",
+      "description": "This bold and glamorous bedroom is inspired by the opulence of the Art Deco era. Featuring rich jewel tones, geometric patterns, and luxurious materials like velvet and brass, this room is both elegant and eye-catching. A tufted bed, mirrored nightstands, and bold wall art complete the look, making it ideal for those who love statement interiors.",
+      "tags": ["Art Deco", "Glamorous", "Bold"],
+      "images": [
+        "https://example.com/artdeco_bedroom1.jpg",
+        "https://example.com/artdeco_bedroom2.jpg"
+      ],
+      "products": [123, 124],
+      "floor_plan": "33.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Victoria Adams",
+          "rating": 5.0,
+          "comment": "Stunning design! Feels luxurious and sophisticated."
+        }
+      ],
+      "designers": [12]
+    },
+    {
+      "id": 221,
+      "name": "Farmhouse Chic Bedroom",
+      "category": "Bedroom",
+      "description": "This cozy farmhouse-style bedroom combines rustic charm with modern comfort. The room features a wooden bedframe, vintage-inspired linens, and a shiplap accent wall. Soft colors and natural textures bring warmth to the space, while a sliding barn door adds an authentic farmhouse touch. Perfect for those who want a homey, welcoming atmosphere.",
+      "tags": ["Farmhouse", "Chic", "Rustic"],
+      "images": [
+        "https://example.com/farmhouse_bedroom1.jpg",
+        "https://example.com/farmhouse_bedroom2.jpg"
+      ],
+      "products": [125, 126],
+      "floor_plan": "31.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "John Smith",
+          "rating": 4.8,
+          "comment": "Very charming and comfortable. Perfect for a cozy home."
+        }
+      ],
+      "designers": [13]
+    },
+    {
+      "id": 222,
+      "name": "Modern Minimalist Bathroom",
+      "category": "Bathroom",
+      "description": "This design features clean lines, simple color schemes, and uncluttered space. It uses natural materials like stone and wood with neutral tones to create a calming, spa-like atmosphere. A large walk-in shower with frameless glass and a floating vanity gives the room a sleek, open feel.",
+      "tags": ["Minimalist", "Modern", "Spa"],
+      "images": [
+        "https://example.com/minimalistbath1.jpg",
+        "https://example.com/minimalistbath2.jpg"
+      ],
+      "products": [101, 102, 103],
+      "floor_plan": "25.00㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "rating": 4.8,
+          "comment": "A truly calming and elegant bathroom."
+        }
+      ],
+      "designers": [201, 202]
+    },
+    {
+      "id": 223,
+      "name": "Vintage Chic Bathroom",
+      "category": "Bathroom",
+      "description": "This vintage-inspired bathroom combines antique fixtures with modern functionality. The design includes a clawfoot bathtub, retro floor tiles, and brass fixtures. Light pastel colors and floral wallpaper bring a charming and cozy feel to the room, while modern amenities ensure comfort.",
+      "tags": ["Vintage", "Retro", "Chic"],
+      "images": [
+        "https://example.com/vintagebath1.jpg",
+        "https://example.com/vintagebath2.jpg"
+      ],
+      "products": [104, 105, 106],
+      "floor_plan": "30.00㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Emily Smith",
+          "rating": 4.7,
+          "comment": "Perfect blend of old-world charm with modern comforts."
+        }
+      ],
+      "designers": [203]
+    },
+    {
+      "id": 224,
+      "name": "Luxury Spa Bathroom",
+      "category": "Bathroom",
+      "description": "This bathroom design offers a luxurious spa-like experience at home. Featuring a whirlpool bathtub, rain shower, and ambient lighting, it is the perfect space for relaxation. Marble flooring and high-end fixtures complement the serene environment, making it a haven for pampering.",
+      "tags": ["Luxury", "Spa", "Relaxation"],
+      "images": [
+        "https://example.com/spabath1.jpg",
+        "https://example.com/spabath2.jpg"
+      ],
+      "products": [107, 108],
+      "floor_plan": "40.00㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Michael Johnson",
+          "rating": 4.9,
+          "comment": "Feels like having a 5-star hotel spa at home."
+        }
+      ],
+      "designers": [204, 205]
+    },
+    {
+      "id": 225,
+      "name": "Rustic Farmhouse Bathroom",
+      "category": "Bathroom",
+      "description": "Inspired by the countryside, this design uses reclaimed wood, exposed beams, and a freestanding tub to bring a cozy, rustic feel. Stone flooring and vintage light fixtures add to the farmhouse charm, while a large window allows natural light to fill the space.",
+      "tags": ["Rustic", "Farmhouse", "Natural"],
+      "images": [
+        "https://example.com/rusticbath1.jpg",
+        "https://example.com/rusticbath2.jpg"
+      ],
+      "products": [109, 110, 111],
+      "floor_plan": "28.00㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Samantha Lee",
+          "rating": 4.6,
+          "comment": "Cozy and beautiful, perfect for a country home."
+        }
+      ],
+      "designers": [206]
+    },
+    {
+      "id": 226,
+      "name": "Scandinavian Style Bathroom",
+      "category": "Bathroom",
+      "description": "This design focuses on simplicity and functionality, featuring clean lines, light colors, and natural materials. The use of white tiles, wooden accents, and minimalist fixtures creates an airy, bright space that feels both functional and stylish. Ideal for lovers of modern, clutter-free designs.",
+      "tags": ["Scandinavian", "Minimalist", "Functional"],
+      "images": [
+        "https://example.com/scandinavianbath1.jpg",
+        "https://example.com/scandinavianbath2.jpg"
+      ],
+      "products": [112, 113],
+      "floor_plan": "22.00㎡",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "reviewer": "Laura Martin",
+          "rating": 4.5,
+          "comment": "A bright, clean space that feels very modern."
+        }
+      ],
+      "designers": [207]
+    },
+    {
+      "id": 227,
+      "name": "Tropical Oasis Bathroom",
+      "category": "Bathroom",
+      "description": "Designed to evoke the feeling of a tropical vacation, this bathroom uses natural materials like bamboo and stone, paired with lush greenery. A large rain shower and deep soaking tub enhance the luxurious feel, while vibrant tiles and tropical plants bring an exotic touch.",
+      "tags": ["Tropical", "Oasis", "Natural"],
+      "images": [
+        "https://example.com/tropicalbath1.jpg",
+        "https://example.com/tropicalbath2.jpg"
+      ],
+      "products": [114, 115, 116],
+      "floor_plan": "35.00㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Anna Taylor",
+          "rating": 4.9,
+          "comment": "It feels like I'm on vacation every day!"
+        }
+      ],
+      "designers": [208]
+    },
+    {
+      "id": 228,
+      "name": "Bohemian Style Bathroom",
+      "category": "Bathroom",
+      "description": "This eclectic bathroom design is full of color, texture, and personality. The space features patterned tiles, vintage fixtures, and an array of houseplants. The bold mix of textures and patterns creates a unique, cozy atmosphere, perfect for those who love artistic and unconventional spaces.",
+      "tags": ["Bohemian", "Eclectic", "Artistic"],
+      "images": [
+        "https://example.com/bohobath1.jpg",
+        "https://example.com/bohobath2.jpg"
+      ],
+      "products": [117, 118, 119],
+      "floor_plan": "26.50㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Daniel Harris",
+          "rating": 4.7,
+          "comment": "Such a creative and fun bathroom!"
+        }
+      ],
+      "designers": [209, 210]
+    },
+    {
+      "id": 229,
+      "name": "Industrial Loft Bathroom",
+      "category": "Bathroom",
+      "description": "This design embraces the industrial aesthetic, with exposed brick walls, concrete flooring, and metal fixtures. The space feels open and raw, yet modern and sleek. Black accents and large glass partitions enhance the edgy vibe, making it ideal for urban lofts.",
+      "tags": ["Industrial", "Loft", "Urban"],
+      "images": [
+        "https://example.com/loftbath1.jpg",
+        "https://example.com/loftbath2.jpg"
+      ],
+      "products": [120, 121],
+      "floor_plan": "32.00㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Chris Walker",
+          "rating": 4.8,
+          "comment": "Bold and industrial, perfect for an urban space."
+        }
+      ],
+      "designers": [211]
+    },
+    {
+      "id": 230,
+      "name": "Mediterranean Retreat Bathroom",
+      "category": "Bathroom",
+      "description": "Inspired by the Mediterranean coast, this bathroom features warm terracotta tiles, vibrant mosaics, and natural materials like wood and stone. Large windows and a freestanding tub offer stunning views, making the space feel like a coastal retreat.",
+      "tags": ["Mediterranean", "Coastal", "Relaxation"],
+      "images": [
+        "https://example.com/medbath1.jpg",
+        "https://example.com/medbath2.jpg"
+      ],
+      "products": [122, 123],
+      "floor_plan": "36.00㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Jessica Green",
+          "rating": 4.9,
+          "comment": "Feels like a vacation home in the Mediterranean!"
+        }
+      ],
+      "designers": [212, 213]
+    },
+    {
+      "id": 231,
+      "name": "Nature-Inspired Bathroom",
+      "category": "Bathroom",
+      "description": "This bathroom draws inspiration from nature with earthy tones, organic materials, and a large focus on natural lighting. The design includes stone tiles, bamboo accents, and large windows that open to greenery outside. A freestanding tub and walk-in rain shower create a serene and peaceful environment, perfect for those seeking a connection to nature in their home.",
+      "tags": ["Nature", "Organic", "Earthy"],
+      "images": [
+        "https://example.com/naturebath1.jpg",
+        "https://example.com/naturebath2.jpg"
+      ],
+      "products": [127, 128, 129],
+      "floor_plan": "33.00㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Sophia Davis",
+          "rating": 4.8,
+          "comment": "A peaceful retreat, ideal for relaxation."
+        }
+      ],
+      "designers": [216]
+    },
+    {
+      "id": 232,
+      "name": "Minimalist Dining Room",
+      "category": "Dining Room",
+      "description": "A clean, minimal dining room that emphasizes simplicity and functionality. This design uses a monochromatic color scheme with sleek, modern furniture. The open space is uncluttered, focusing on the dining table as the central piece. The minimalist décor includes subtle accents like abstract art and geometric lighting fixtures. The layout fosters a calm, serene environment perfect for casual meals or intimate gatherings.",
+      "tags": ["Minimalist", "Monochrome", "Modern"],
+      "images": [
+        "https://example.com/minimalistdining1.jpg",
+        "https://example.com/minimalistdining2.jpg"
+      ],
+      "products": [301, 302, 303],
+      "floor_plan": "25.5㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "James Cooper",
+          "rating": 4.8,
+          "comment": "I love the simplicity and open space!"
+        }
+      ],
+      "designers": [21, 22]
+    },
+    {
+      "id": 233,
+      "name": "Rustic Farmhouse Dining Room",
+      "category": "Dining Room",
+      "description": "A rustic farmhouse-inspired dining room designed for a warm and cozy dining experience. The space incorporates natural wood tones, reclaimed furniture, and earthy textures to bring the outdoors inside. Large windows invite natural light, while vintage chandeliers add an old-world charm. The large wooden dining table serves as the focal point, perfect for family meals or gatherings with friends.",
+      "tags": ["Rustic", "Farmhouse", "Wood"],
+      "images": [
+        "https://example.com/farmhousedining1.jpg",
+        "https://example.com/farmhousedining2.jpg"
+      ],
+      "products": [304, 305, 306],
+      "floor_plan": "32.1㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Sophie Daniels",
+          "rating": 4.7,
+          "comment": "The natural wood and cozy feel are perfect!"
+        }
+      ],
+      "designers": [23]
+    },
+    {
+      "id": 234,
+      "name": "Elegant Contemporary Dining Room",
+      "category": "Dining Room",
+      "description": "An elegant dining room with contemporary design elements, featuring sleek furniture, soft lighting, and a neutral color palette with pops of vibrant color. The centerpiece is a marble-top dining table surrounded by upholstered chairs. Statement art pieces on the walls add character, while pendant lighting creates a luxurious ambiance. This space is designed for upscale dining experiences.",
+      "tags": ["Elegant", "Contemporary", "Luxury"],
+      "images": [
+        "https://example.com/elegantdining1.jpg",
+        "https://example.com/elegantdining2.jpg"
+      ],
+      "products": [307, 308, 309],
+      "floor_plan": "28.7㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Olivia Reynolds",
+          "rating": 4.9,
+          "comment": "A stunning, luxurious space. Perfect for entertaining!"
+        }
+      ],
+      "designers": [24]
+    },
+    {
+      "id": 236,
+      "name": "Industrial Chic Dining Room",
+      "category": "Dining Room",
+      "description": "This dining room blends industrial elements with chic modern touches. Exposed brick walls, metal fixtures, and concrete flooring give it a raw, unfinished look, while modern furniture and artwork add a contemporary feel. The industrial-style lighting above the dining table and metal-framed chairs create a distinct urban vibe. Perfect for loft spaces or homes with an edgy style.",
+      "tags": ["Industrial", "Urban", "Chic"],
+      "images": [
+        "https://example.com/industrialdining1.jpg",
+        "https://example.com/industrialdining2.jpg"
+      ],
+      "products": [310, 311, 312],
+      "floor_plan": "30.2㎡",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "reviewer": "Ethan Hill",
+          "rating": 4.6,
+          "comment": "Love the industrial vibe. Feels modern and edgy."
+        }
+      ],
+      "designers": [25]
+    },
+    {
+      "id": 237,
+      "name": "Scandinavian Bright Dining Room",
+      "category": "Dining Room",
+      "description": "Inspired by Scandinavian design, this dining room emphasizes light, space, and minimalism. The neutral tones of white and light grey dominate the color scheme, creating a bright and airy atmosphere. Wooden dining furniture with clean lines, large windows, and simple pendant lights complete the look. It's perfect for those who appreciate a serene, functional, and inviting dining space.",
+      "tags": ["Scandinavian", "Bright", "Minimalist"],
+      "images": [
+        "https://example.com/scandinaviandining1.jpg",
+        "https://example.com/scandinaviandining2.jpg"
+      ],
+      "products": [313, 314, 315],
+      "floor_plan": "24.5㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Isabella White",
+          "rating": 4.9,
+          "comment": "A bright and calming space that's perfect for everyday dining."
+        }
+      ],
+      "designers": [21, 26]
+    },
+    {
+      "id": 238,
+      "name": "Eclectic Boho Dining Room",
+      "category": "Dining Room",
+      "description": "A bold and colorful dining room filled with a mix of eclectic patterns, vibrant colors, and bohemian décor. This design features layered textures like woven rugs, macramé wall hangings, and mismatched chairs to create a cozy, relaxed vibe. The wooden dining table is adorned with unique pottery and candles, while plants add life to the space. Ideal for those who enjoy artistic, non-traditional designs.",
+      "tags": ["Eclectic", "Boho", "Colorful"],
+      "images": [
+        "https://example.com/bohodining1.jpg",
+        "https://example.com/bohodining2.jpg"
+      ],
+      "products": [316, 317, 318],
+      "floor_plan": "26.8㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Harper Green",
+          "rating": 4.7,
+          "comment": "Love the bold mix of colors and textures. So creative!"
+        }
+      ],
+      "designers": [27]
+    },
+    {
+      "id": 239,
+      "name": "Classic Formal Dining Room",
+      "category": "Dining Room",
+      "description": "A formal dining room inspired by classic design elements. The space features a grand, dark wood dining table with matching upholstered chairs, ornate chandeliers, and traditional artwork. The rich color scheme of deep burgundy and gold adds an opulent feel, making this room ideal for hosting formal dinners and special occasions. The attention to detail in décor creates a timeless, elegant atmosphere.",
+      "tags": ["Classic", "Formal", "Traditional"],
+      "images": [
+        "https://example.com/formaldining1.jpg",
+        "https://example.com/formaldining2.jpg"
+      ],
+      "products": [319, 320, 321],
+      "floor_plan": "40.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Henry Turner",
+          "rating": 4.8,
+          "comment": "A beautiful, classic space. Perfect for special occasions."
+        }
+      ],
+      "designers": [28]
+    },
+    {
+      "id": 240,
+      "name": "Modern Open-Concept Dining Room",
+      "category": "Dining Room",
+      "description": "An open-concept dining room with modern furniture and clean lines. The dining area flows seamlessly into the kitchen and living room, creating a spacious feel. Sleek, contemporary furniture and abstract art give this space a modern touch, while large windows allow plenty of natural light. This design is perfect for those who enjoy a minimalist aesthetic with modern conveniences.",
+      "tags": ["Modern", "Open-Concept", "Minimalist"],
+      "images": [
+        "https://example.com/openconceptdining1.jpg",
+        "https://example.com/openconceptdining2.jpg"
+      ],
+      "products": [322, 323, 324],
+      "floor_plan": "33.5㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Emily Robinson",
+          "rating": 4.9,
+          "comment": "I love the open concept and modern design."
+        }
+      ],
+      "designers": [29]
+    },
+    {
+      "id": 241,
+      "name": "Modern Executive Office",
+      "category": "Office",
+      "description": "A sleek, modern executive office designed for productivity and style. This space features a minimalist desk with integrated tech, ergonomic chairs, and a spacious layout. The color scheme is neutral with accents of dark wood and chrome. The office includes large windows for natural light and is accented with contemporary artwork and a plush area rug.",
+      "tags": ["Modern", "Minimalist", "Executive"],
+      "images": [
+        "https://example.com/modernexecutive1.jpg",
+        "https://example.com/modernexecutive2.jpg"
+      ],
+      "products": [401, 402, 403],
+      "floor_plan": "35.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "John Smith",
+          "rating": 4.8,
+          "comment": "Perfect blend of functionality and style. The modern look is very appealing."
+        }
+      ],
+      "designers": [31, 32]
+    },
+    {
+      "id": 242,
+      "name": "Industrial Loft Office",
+      "category": "Office",
+      "description": "An industrial loft office featuring exposed brick walls, concrete flooring, and metal accents. This design includes large, open workspaces with modular furniture that can be rearranged to fit different needs. The office is decorated with vintage lighting fixtures and reclaimed wood elements, creating a trendy and functional work environment.",
+      "tags": ["Industrial", "Loft", "Urban"],
+      "images": [
+        "https://example.com/industrialloft1.jpg",
+        "https://example.com/industrialloft2.jpg"
+      ],
+      "products": [404, 405, 406],
+      "floor_plan": "45.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Emily Davis",
+          "rating": 4.7,
+          "comment": "The industrial style adds a unique character to the office. Great for creative teams."
+        }
+      ],
+      "designers": [33]
+    },
+    {
+      "id": 243,
+      "name": "Scandinavian Minimal Office",
+      "category": "Office",
+      "description": "A Scandinavian-inspired office that emphasizes simplicity and functionality. The design includes white walls, light wood furniture, and clean lines. The open-plan layout promotes a collaborative work environment, and the use of plants and natural light creates a calming atmosphere. This office is ideal for those who value a clutter-free, efficient workspace.",
+      "tags": ["Scandinavian", "Minimalist", "Functional"],
+      "images": [
+        "https://example.com/scandinavianminimal1.jpg",
+        "https://example.com/scandinavianminimal2.jpg"
+      ],
+      "products": [407, 408, 409],
+      "floor_plan": "30.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sophia Lee",
+          "rating": 4.9,
+          "comment": "Love the simplicity and the natural light. Perfect for maintaining focus."
+        }
+      ],
+      "designers": [34, 35]
+    },
+    {
+      "id": 244,
+      "name": "Classic Professional Office",
+      "category": "Office",
+      "description": "A classic professional office featuring dark wood furniture, leather chairs, and traditional décor elements. The space includes a large executive desk, bookcases, and a conference table for meetings. The rich color palette of deep browns and greens creates an authoritative and polished look, ideal for formal business environments.",
+      "tags": ["Classic", "Professional", "Traditional"],
+      "images": [
+        "https://example.com/classicprofessional1.jpg",
+        "https://example.com/classicprofessional2.jpg"
+      ],
+      "products": [410, 411, 412],
+      "floor_plan": "50.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Michael Johnson",
+          "rating": 4.8,
+          "comment": "The classic design exudes professionalism and sophistication. Ideal for client meetings."
+        }
+      ],
+      "designers": [36]
+    },
+    {
+      "id": 245,
+      "name": "Creative Collaborative Office",
+      "category": "Office",
+      "description": "A vibrant, creative office designed to foster collaboration and innovation. This space features bright colors, flexible workstations, and creative breakout areas. The office includes comfortable seating, writable walls, and a mix of open and private spaces. The energetic design encourages teamwork and idea-sharing, making it perfect for creative teams.",
+      "tags": ["Creative", "Collaborative", "Vibrant"],
+      "images": [
+        "https://example.com/creativecollab1.jpg",
+        "https://example.com/creativecollab2.jpg"
+      ],
+      "products": [413, 414, 415],
+      "floor_plan": "40.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Olivia Martinez",
+          "rating": 4.9,
+          "comment": "A dynamic and inspiring space. Perfect for brainstorming and team projects."
+        }
+      ],
+      "designers": [37, 38]
+    },
+    {
+      "id": 246,
+      "name": "Tech-Savvy Smart Office",
+      "category": "Office",
+      "description": "A cutting-edge smart office equipped with the latest technology. This design features high-tech furniture with built-in charging stations, interactive smart screens, and voice-controlled lighting and climate systems. The minimalist décor includes sleek metal and glass elements, creating a futuristic and efficient workspace. Ideal for tech companies and startups.",
+      "tags": ["Smart", "Tech-Savvy", "Futuristic"],
+      "images": [
+        "https://example.com/smartoffice1.jpg",
+        "https://example.com/smartoffice2.jpg"
+      ],
+      "products": [416, 417, 418],
+      "floor_plan": "36.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Liam Turner",
+          "rating": 4.8,
+          "comment": "The integration of technology is impressive. Perfect for modern tech businesses."
+        }
+      ],
+      "designers": [39]
+    },
+    {
+      "id": 247,
+      "name": "Vintage Chic Office",
+      "category": "Office",
+      "description": "A charming vintage chic office that combines retro aesthetics with modern comfort. This design features antique-style desks, vintage lamps, and classic patterned rugs. The space uses a warm color palette of creams and browns, complemented by old-world charm and contemporary functionality. Ideal for those who appreciate a nostalgic yet functional work environment.",
+      "tags": ["Vintage", "Chic", "Retro"],
+      "images": [
+        "https://example.com/vintagechic1.jpg",
+        "https://example.com/vintagechic2.jpg"
+      ],
+      "products": [419, 420, 421],
+      "floor_plan": "32.5㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Ella Harris",
+          "rating": 4.7,
+          "comment": "A beautifully nostalgic office with a blend of vintage and modern touches."
+        }
+      ],
+      "designers": [40]
+    },
+    {
+      "id": 248,
+      "name": "Zen Retreat Office",
+      "category": "Office",
+      "description": "A Zen-inspired office designed to create a tranquil and stress-free work environment. This space features natural materials like bamboo and stone, with calming colors and plenty of plants. The open layout includes private pods for focused work and collaborative areas with comfortable seating. The design emphasizes relaxation and mental well-being, perfect for reducing work-related stress.",
+      "tags": ["Zen", "Tranquil", "Natural"],
+      "images": [
+        "https://example.com/zenretreat1.jpg",
+        "https://example.com/zenretreat2.jpg"
+      ],
+      "products": [422, 423, 424],
+      "floor_plan": "38.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Ava Robinson",
+          "rating": 4.9,
+          "comment": "A peaceful and serene workspace. Perfect for maintaining focus and reducing stress."
+        }
+      ],
+      "designers": [41, 42]
+    },
+    {
+      "id": 249,
+      "name": "Urban Green Office",
+      "category": "Office",
+      "description": "An urban green office that incorporates sustainable design elements with a touch of nature. This design features green walls, energy-efficient lighting, and recycled materials. The open workspace includes biophilic elements such as indoor gardens and natural light, promoting a healthy and eco-friendly environment. Ideal for businesses committed to sustainability.",
+      "tags": ["Sustainable", "Green", "Eco-Friendly"],
+      "images": [
+        "https://example.com/urbangreen1.jpg",
+        "https://example.com/urbangreen2.jpg"
+      ],
+      "products": [425, 426, 427],
+      "floor_plan": "34.5㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Mason Walker",
+          "rating": 4.8,
+          "comment": "A fantastic office with a strong focus on sustainability and a great atmosphere."
+        }
+      ],
+      "designers": [43]
+    },
+    {
+      "id": 250,
+      "name": "Luxury Executive Suite",
+      "category": "Office",
+      "description": "A luxury executive suite designed for high-profile executives. This space features opulent materials such as marble floors, leather furniture, and custom-built cabinetry. The office includes a private conference area, a comfortable lounge, and elegant décor with rich, dark colors. The design exudes sophistication and is perfect for executives who want a statement-making workspace.",
+      "tags": ["Luxury", "Executive", "Sophisticated"],
+      "images": [
+        "https://example.com/luxurysuite1.jpg",
+        "https://example.com/luxurysuite2.jpg"
+      ],
+      "products": [428, 429, 430],
+      "floor_plan": "50.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Isabella Clark",
+          "rating": 4.9,
+          "comment": "An incredibly luxurious and impressive office. Perfect for making a powerful impression."
+        }
+      ],
+      "designers": [44]
+    },
+    {
+      "id": 251,
+      "name": "Whimsical Fantasy Playroom",
+      "category": "Playroom",
+      "description": "A magical playroom designed to inspire imagination and creativity. This space features whimsical murals of fairy tales and fantasy worlds, colorful floor mats, and playful furniture. The room includes a reading nook with cozy cushions, a mini stage for dress-up and performances, and interactive wall elements. The vibrant colors and fun décor make it a perfect environment for children to explore their creativity.",
+      "tags": ["Fantasy", "Whimsical", "Colorful"],
+      "images": [
+        "https://example.com/whimsicalplayroom1.jpg",
+        "https://example.com/whimsicalplayroom2.jpg"
+      ],
+      "products": [501, 502, 503],
+      "floor_plan": "28.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Sophie Lewis",
+          "rating": 4.9,
+          "comment": "A dream come true for kids who love fantasy and adventure!"
+        }
+      ],
+      "designers": [45, 46]
+    },
+    {
+      "id": 252,
+      "name": "Educational Fun Playroom",
+      "category": "Playroom",
+      "description": "An educational playroom that combines learning with play. This design features interactive educational toys, wall-mounted activity boards, and a variety of educational games. The space includes a mini classroom area with child-sized desks, a sensory play zone, and storage for books and learning materials. The bright, engaging décor encourages curiosity and cognitive development while providing a fun environment for play.",
+      "tags": ["Educational", "Interactive", "Bright"],
+      "images": [
+        "https://example.com/educationalplayroom1.jpg",
+        "https://example.com/educationalplayroom2.jpg"
+      ],
+      "products": [504, 505, 506],
+      "floor_plan": "30.5㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "James Carter",
+          "rating": 4.8,
+          "comment": "A fantastic space that blends learning and fun seamlessly."
+        }
+      ],
+      "designers": [47]
+    },
+    {
+      "id": 253,
+      "name": "Adventure Playroom",
+      "category": "Playroom",
+      "description": "An adventurous playroom designed for active play and exploration. This space features climbing structures, a mini indoor jungle gym, and soft play areas for safe tumbling and climbing. The room includes a themed playhouse or fort, and a variety of sensory and motor skill toys. The adventurous décor and layout encourage physical activity and imaginative play, making it ideal for energetic kids.",
+      "tags": ["Adventure", "Active", "Exploration"],
+      "images": [
+        "https://example.com/adventureplayroom1.jpg",
+        "https://example.com/adventureplayroom2.jpg"
+      ],
+      "products": [507, 508, 509],
+      "floor_plan": "35.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Olivia Johnson",
+          "rating": 4.9,
+          "comment": "An exciting and dynamic space that keeps kids engaged and active!"
+        }
+      ],
+      "designers": [48]
+    },
+    {
+      "id": 254,
+      "name": "Creative Arts Playroom",
+      "category": "Playroom",
+      "description": "A playroom dedicated to fostering creativity through art and crafts. The space features easels, craft tables, and an array of art supplies for painting, drawing, and sculpting. The room includes display areas for finished artworks, and a mini gallery wall where kids can showcase their creations. Bright, inspiring colors and open workspaces encourage children to express themselves artistically.",
+      "tags": ["Creative", "Art", "Craft"],
+      "images": [
+        "https://example.com/creativeartsplayroom1.jpg",
+        "https://example.com/creativeartsplayroom2.jpg"
+      ],
+      "products": [510, 511, 512],
+      "floor_plan": "27.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Emma Brown",
+          "rating": 4.8,
+          "comment": "A perfect space for little artists to explore their creativity!"
+        }
+      ],
+      "designers": [49]
+    },
+    {
+      "id": 255,
+      "name": "Cozy Reading Nook Playroom",
+      "category": "Playroom",
+      "description": "A cozy playroom designed with a focus on reading and relaxation. This design features a comfortable reading nook with built-in bookshelves, soft seating, and a variety of children's books. The room includes a quiet zone with calming colors, floor cushions, and a small tent or teepee for reading and quiet play. The cozy atmosphere promotes a love for reading and provides a tranquil space for downtime.",
+      "tags": ["Cozy", "Reading", "Relaxation"],
+      "images": [
+        "https://example.com/readingnookplayroom1.jpg",
+        "https://example.com/readingnookplayroom2.jpg"
+      ],
+      "products": [513, 514, 515],
+      "floor_plan": "25.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Ava Davis",
+          "rating": 4.9,
+          "comment": "A serene and inviting space that's perfect for quiet reading and relaxation."
+        }
+      ],
+      "designers": [50]
+    },
+    {
+      "id": 256,
+      "name": "Space Explorer Playroom",
+      "category": "Playroom",
+      "description": "A space-themed playroom that ignites curiosity about the universe. The room features starry murals, planet-themed rugs, and space-themed toys like rockets and telescopes. A small inflatable planetarium or star projector can be included to simulate the night sky. The furniture is designed to resemble space vehicles and celestial bodies, providing an immersive experience for little astronauts and space enthusiasts.",
+      "tags": ["Space", "Exploration", "Celestial"],
+      "images": [
+        "https://example.com/spaceexplorerplayroom1.jpg",
+        "https://example.com/spaceexplorerplayroom2.jpg"
+      ],
+      "products": [516, 517, 518],
+      "floor_plan": "32.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Liam Miller",
+          "rating": 4.8,
+          "comment": "An out-of-this-world experience for kids fascinated by space!"
+        }
+      ],
+      "designers": [51]
+    },
+    {
+      "id": 257,
+      "name": "Underwater Adventure Playroom",
+      "category": "Playroom",
+      "description": "An underwater-themed playroom designed to bring the ocean depths into a child's play area. This design includes ocean-blue walls, fish and sea creature murals, and nautical-themed decorations. The room features a play area with a sandpit or water play table, and ocean-themed toys like submarines and sea animal plushies. Soft, wavy rugs and a small tent resembling a submarine complete the aquatic theme.",
+      "tags": ["Underwater", "Ocean", "Adventure"],
+      "images": [
+        "https://example.com/underwaterplayroom1.jpg",
+        "https://example.com/underwaterplayroom2.jpg"
+      ],
+      "products": [519, 520, 521],
+      "floor_plan": "29.5㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Mia Thompson",
+          "rating": 4.7,
+          "comment": "A beautifully designed space that captures the magic of the ocean."
+        }
+      ],
+      "designers": [52]
+    },
+    {
+      "id": 258,
+      "name": "Superhero Headquarters Playroom",
+      "category": "Playroom",
+      "description": "A superhero-themed playroom that encourages children to channel their inner heroes. The room is decorated with bold colors, superhero posters, and wall decals of famous comic book characters. The play area includes a mini superhero costume station, a DIY superhero headquarters with play tools and gadgets, and a small climbing wall or obstacle course to enhance physical play. The room also features themed storage for action figures and superhero gear.",
+      "tags": ["Superhero", "Heroic", "Bold"],
+      "images": [
+        "https://example.com/superheroplayroom1.jpg",
+        "https://example.com/superheroplayroom2.jpg"
+      ],
+      "products": [522, 523, 524],
+      "floor_plan": "31.0㎡",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "reviewer": "Noah Wilson",
+          "rating": 4.9,
+          "comment": "Perfect for kids who love superheroes and adventure!"
+        }
+      ],
+      "designers": [53]
+    },
+    {
+      "id": 259,
+      "name": "Farmyard Fun Playroom",
+      "category": "Playroom",
+      "description": "A farmyard-themed playroom that brings the charm of the countryside indoors. The room features wall decals of farm animals, barnyard murals, and farm-themed play toys like miniature tractors and animal figures. The space includes a play kitchen with farm-inspired utensils, a small play area with straw bales, and a cozy corner with soft animal-themed cushions. The design emphasizes a playful, rustic feel, ideal for imaginative farm-related activities.",
+      "tags": ["Farmyard", "Rustic", "Playful"],
+      "images": [
+        "https://example.com/farmyardplayroom1.jpg",
+        "https://example.com/farmyardplayroom2.jpg"
+      ],
+      "products": [525, 526, 527],
+      "floor_plan": "30.0㎡",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "reviewer": "Charlotte Brown",
+          "rating": 4.7,
+          "comment": "A delightful space that brings the farm experience to life!"
+        }
+      ],
+      "designers": [54]
+    },
+    {
+      "id": 260,
+      "name": "Jungle Safari Playroom",
+      "category": "Playroom",
+      "description": "A jungle safari-themed playroom designed for adventurous kids who love wildlife. The room features jungle-themed wallpapers, animal prints, and green accents to create a lush, jungle-like atmosphere. It includes a play area with jungle-themed tents, a climbing structure resembling jungle vines, and various animal-themed toys. The décor includes stuffed animals and jungle sound effects to enhance the immersive experience.",
+      "tags": ["Jungle", "Safari", "Wildlife"],
+      "images": [
+        "https://example.com/jungleplayroom1.jpg",
+        "https://example.com/jungleplayroom2.jpg"
+      ],
+      "products": [528, 529, 530],
+      "floor_plan": "33.0㎡",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "reviewer": "Aiden Scott",
+          "rating": 4.8,
+          "comment": "A thrilling adventure right in our home. Perfect for little explorers!"
+        }
+      ],
+      "designers": [55]
+    }
   ]
-  
 }
